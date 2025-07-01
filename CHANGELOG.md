@@ -1,5 +1,17 @@
 # es-hangul
 
+## 2.3.4
+
+### Patch Changes
+
+- [#360](https://github.com/toss/es-hangul/pull/360) [`d99e3eb`](https://github.com/toss/es-hangul/commit/d99e3eb719f5520ae00ebf1eec308988c68614a1) Thanks [@poppy-lee](https://github.com/poppy-lee)! - fix: numberToHangul 소수점 아래 변환 시 "영" 이 생략되는 문제를 수정합니다
+
+## 2.3.3
+
+### Patch Changes
+
+- [#333](https://github.com/toss/es-hangul/pull/333) [`897e355`](https://github.com/toss/es-hangul/commit/897e355433b68cfe9e0d38e90d41240c6756bd7c) Thanks [@shren207](https://github.com/shren207)! - feat: canBeJungseong 함수가 분리되지 않은 이중모음도 중성으로 인식하도록 개선합니다.
+
 ## 2.3.2
 
 ### Patch Changes
